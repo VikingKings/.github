@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome Cybernauts👋
 
-Welcome Cybernauts, I present to you my Organization and it's projects. 
+I present to you my Organization and it's projects. 
 
 
 
